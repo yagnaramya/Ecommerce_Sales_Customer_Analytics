@@ -268,7 +268,7 @@
 
 
 
-**!\[Executive Overview](Screenshots/Executive\_Overview.png)**
+**![Executive Overview](Executive_Overview.png)**
 
 
 
@@ -276,7 +276,7 @@
 
 
 
-**!\[Customer Intelligence](Screenshots/Customer\_Intelligence.png)**
+**![Customer Intelligence](Customer_Intelligence.png)**
 
 
 
@@ -284,7 +284,7 @@
 
 
 
-**!\[Product \& Sales Analysis](Screenshots/Product\_Sales\_Analysis.png)**
+**![Product & Sales Analysis](Product_Sales_Analysis.png)**
 
 
 
